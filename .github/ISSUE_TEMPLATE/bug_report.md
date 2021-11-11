@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: 'C_Float in ldf.lark file is not support Scientific Notation "E"'
 labels: 'bug'
 assignees: ''
 
